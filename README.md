@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abbybynum
+- 👀 I’m interested in finding cool new roles for iOS Developers!
+- 🌱 I’m currently learning how mobile development works
+- 💞️ I’m looking to collaborate finding githubbers new IT positions
+- 📫 How to reach me (https://www.linkedin.com/in/abby-bynum-7a32881a4/)
